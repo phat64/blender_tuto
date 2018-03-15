@@ -1,0 +1,45 @@
+[Blender] How create a textured cube ?
+
+Version : Blender 2.76b
+
+0. Delete the light
+Select the lamp with RMB and press X and choose delete. 
+ps : It's necessary if you want to avoid black faces in the cube.
+
+1. move/rotate your camera
+Use the numpad to move or rotate the current camera of your scene 
+ROTATE : KEY4(<-), KEY6(->), KEY8(^), KEY2(v)
+MOVE : CTRL+KEY4(<-), CTRL+KEY6(->), CTRL+KEY8(^), CTRL+KEY2(v)
+AA (Axis-aligned): KEY1(+XZ), CTRL+KEY1(-XZ), KEY3(+YZ), CTRL+KEY3(-YZ), KEY7(X+Y), CTRL+KEY7(X-Y), 
+
+2. Split the 3d view in two
+Select with the LMB pushed the top-right of the corner and go to the middle of the 3d view and release the LMB.
+After this, you will have 2x 3d views : left 3d view and right 3d view.
+
+3. Select the cube
+Select the cube with RMB in the left 3d view
+
+4. Select the edit-mode
+In the bottom of the left 3d view, select the "Edit Mode" instead of "Object Mode" in the Combo Box. 
+
+5. Mark seam
+Press CRTL-E and choose "Mark Seam" in the pop-up menu.
+
+6 Choose Textured (view shading)
+After the "Edit Mode" Combo Box, click on the icon (a white sphere) and choose "Texture"
+
+7. Select the UV/Image Editor
+In the right 3d view, click on the icon in Lelt-Bottom before "View" button, and choose "UV/Image Editor"
+
+8. Click on "Open"
+In the right 3d view, click on the "Open" button and choose an image on your disk.
+
+9. Choose your vertices
+In the left 3d view, unselect all. After select 4 vertices with CTRL+RMB. 
+ 
+10. Move the UV
+In the right view (with an image), Select the UV coord in the image with RMB-pushed and release with LMB.
+
+11 Change All UV coords
+Rotate the camera's view with KEY4 (<-) or KEY6 (->) or KEY8 (^) or KEY2(v) 
+Unselect ALL, and select 4 vertices and change UVs in righ view.
