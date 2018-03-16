@@ -1,0 +1,11 @@
+1. Object Mode
+Be sure that your blender is in "Object Mode".
+If you're not in "Object Mode", go to bottom menu and select "Object Mode" after "Object" button menu
+
+2. Selection
+Select your 3d object with the RMB
+Three colored arrows will appear at the center of the 3d object
+
+3. Move in 3 axis
+Move with press the LMB (without releas it) on 1 of 3 colored arrow.
+Release your LMB when you finish to move your object
