@@ -1,0 +1,5 @@
+1. move/rotate your camera
+Use the NUMPAD to move or rotate the camera of your scene 
+ROTATE : KEY4(<-), KEY6(->), KEY8(^), KEY2(v)
+MOVE : CTRL+KEY4(<-), CTRL+KEY6(->), CTRL+KEY8(^), CTRL+KEY2(v)
+AA (Axis-aligned view): KEY1(+XZ), CTRL+KEY1(-XZ), KEY3(+YZ), CTRL+KEY3(-YZ), KEY7(X+Y), CTRL+KEY7(X-Y), 
